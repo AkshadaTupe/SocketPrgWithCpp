@@ -7,7 +7,7 @@
 		File transfer - sends name and gets a file.
 		Web page - sends url and gets a page.
 		
-In this Project we are going tp focus on sending message from client and get it back from server
+In this Project we are going to focus on sending message from client and get it back from server
 
 # Client Socket Setup
 	•	create a socket.
