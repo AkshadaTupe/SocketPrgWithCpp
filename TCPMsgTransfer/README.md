@@ -24,3 +24,12 @@ In this Project we are going tp focus on sending message from client and get it 
 	•	send/recv - the same way we read and write for a file.
 	•	shutdown to end read/write.
 	•	close to releases data.
+
+ # Execution Steps
+	•	Build TCPMsgTransfer Solution in Visual Studio
+	•	Open two Command Prompts
+	•	In One Command Prompt, execute Server.exe present in Debug folder
+	•	In another Command Prompt, execute Client.exe present in Debug folder
+ 
+ # Reference
+ For Detail Understanding refer **TCPMsgTransfer\Documents\SocketProgramming.docx**
