@@ -1,0 +1,14 @@
+
+*.pdb
+*.sqlite
+TCPMsgTransfer/.vs/TCPMsgTransfer/v15/.suo
+*.db
+*.ipch
+TCPMsgTransfer/.vs/VSWorkspaceState.json
+TCPMsgTransfer/Client/Debug/Client.log
+*.obj
+*.pch
+*.tlog
+*.idb
+*.log
+*.ilk
